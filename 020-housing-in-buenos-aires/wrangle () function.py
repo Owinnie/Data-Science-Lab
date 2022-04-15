@@ -1,6 +1,6 @@
 # Wrangle function:
 # read in a csv file
-# apartments in Distrito Federal < $100000
+# apartments in ,cityName> < $100000
 # remove outliers
 # separate columns
 # create new columns from existing
