@@ -4,7 +4,7 @@
 # remove outliers
 # separate columns
 # create new columns from existing
-# take care oh highly null columns
+# take care of highly null columns
 # low and high cardinality
 # Leakage
 # multicolinearity
