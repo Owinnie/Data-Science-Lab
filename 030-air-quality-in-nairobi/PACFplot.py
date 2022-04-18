@@ -1,3 +1,4 @@
+from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
 import matplotlib.pyplot as plt
 
 fig, ax = plt.subplots(figsize=(15, 6))
