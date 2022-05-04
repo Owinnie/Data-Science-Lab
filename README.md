@@ -1,4 +1,4 @@
-# work-ds-curriculum-Data-Science-Lab
+# Data-Science-Lab
 
 # WQU DATA SCIENCE LAB PROJECTS
 
