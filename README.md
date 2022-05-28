@@ -6,3 +6,4 @@
 - 020-housing-in-buenos-aires
 - 030-air-quality-in-nairobi
 - 040-earthquake-damage-in-nepal
+- 050-bankruptcy-in-poland
