@@ -1,4 +1,4 @@
-# work-ds-curriculum-010-housing-in-mexico-015-assignment.ipynb
+# work-ds-curriculum-010-housing-in-mexico
 
 WQU DATA SCIENCE LAB PROJECT 1
 HOUSING IN MEXICO
