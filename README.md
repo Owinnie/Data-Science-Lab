@@ -7,3 +7,4 @@
 - 030-air-quality-in-nairobi
 - 040-earthquake-damage-in-nepal
 - 050-bankruptcy-in-poland
+- 060-consumer-finances in-usa
