@@ -8,4 +8,4 @@ with open("<Destination>", "wb") as f:
 # Load model from `Destination``
 with open("<Destination>", "rb") as f:
     loaded_model = pickle.load(f)
-print(loaded_model
+print(loaded_model)
