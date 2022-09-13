@@ -11,3 +11,19 @@ result = <collectionName>.aggregate(
         }
     ]
 )
+
+
+# aggregate by sign-up
+result = <yourCollection>.aggregate(
+    [
+        {
+            "$match": {"admissionsQuiz": "incomplete"}
+        },
+        {
+            "$group": {
+                "_id": {"$dateTrunc": {"date": "$createdAt", "unit": "day"}},
+                "count": {"$sum": 1}
+            }
+        }
+    ]
+)
