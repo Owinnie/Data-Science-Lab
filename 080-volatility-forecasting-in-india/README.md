@@ -7,3 +7,4 @@
 - GARCH
 - Model deployment
 - Test driven Development
+- Python custom classes
